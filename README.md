@@ -8,4 +8,6 @@ Soportado mediante promisses en node
 
 ========
 
+```
 npm install
+```
